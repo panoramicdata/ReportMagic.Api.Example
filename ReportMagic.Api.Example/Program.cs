@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace ReportMagic.Api.Example
 {
-	class Program
+	static class Program
 	{
 		static async System.Threading.Tasks.Task Main(string[] args)
 		{
